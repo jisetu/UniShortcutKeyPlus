@@ -4,8 +4,8 @@ namespace UniShortcutKeyPlus
 {
 	internal static class RunUnity
 	{
-		private const string ITEM_NAME_RUN  = "Edit/UniShortcutKeyPlus/Run _F5";
-		private const string ITEM_NAME_STOP = "Edit/UniShortcutKeyPlus/Stop #_F5";
+		private const string ITEM_NAME_RUN  = "Tools/UniShortcutKeyPlus/Run _F5";
+		private const string ITEM_NAME_STOP = "Tools/UniShortcutKeyPlus/Stop #_F5";
 
 		[MenuItem( ITEM_NAME_RUN )]
 		private static void Run()

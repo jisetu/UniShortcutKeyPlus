@@ -7,7 +7,7 @@ namespace UniShortcutKeyPlus
 {
 	internal static class ToggleDebugMode
 	{
-		private const string ITEM_NAME = "Edit/UniShortcutKeyPlus/Toggle Inspector Debug &k";
+		private const string ITEM_NAME = "Tools/UniShortcutKeyPlus/Toggle Inspector Debug &k";
 
         [MenuItem(ITEM_NAME)]
         private static void Toggle()

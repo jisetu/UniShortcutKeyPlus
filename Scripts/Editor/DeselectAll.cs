@@ -5,7 +5,7 @@ namespace UniShortcutKeyPlus
 {
 	internal static class DeselectAll
 	{
-		private const string ITEM_NAME = "Edit/UniShortcutKeyPlus/Deselect All &e";
+		private const string ITEM_NAME = "Tools/UniShortcutKeyPlus/Deselect All &e";
 
 		[MenuItem( ITEM_NAME )]
 		private static void Deselect()

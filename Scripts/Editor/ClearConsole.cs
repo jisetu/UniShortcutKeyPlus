@@ -5,7 +5,7 @@ namespace UniShortcutKeyPlus
 {
 	internal static class ClearConsole
 	{
-		private const string ITEM_NAME = "Edit/UniShortcutKeyPlus/Clear Console &#c";
+		private const string ITEM_NAME = "Tools/UniShortcutKeyPlus/Clear Console &#c";
 
 		[MenuItem( ITEM_NAME )]
 		private static void Invert()

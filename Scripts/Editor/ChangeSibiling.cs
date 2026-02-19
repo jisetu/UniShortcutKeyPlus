@@ -4,8 +4,8 @@ namespace UniShortcutKeyPlus
 {
 	internal static class ChangeSibiling
 	{
-		private const string ITEM_NAME_UP   = "Edit/UniShortcutKeyPlus/Sibiling Up &UP";
-		private const string ITEM_NAME_DOWN = "Edit/UniShortcutKeyPlus/Sibiling Down &DOWN";
+		private const string ITEM_NAME_UP   = "Tools/UniShortcutKeyPlus/Sibiling Up &UP";
+		private const string ITEM_NAME_DOWN = "Tools/UniShortcutKeyPlus/Sibiling Down &DOWN";
 
 		[MenuItem( ITEM_NAME_UP )]
 		private static void Up()

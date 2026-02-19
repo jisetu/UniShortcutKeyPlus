@@ -23,8 +23,8 @@ namespace UniShortcutKeyPlus
 			}
 		}
 
-		private const string ITEM_NAME_COPY  = "Edit/UniShortcutKeyPlus/Copy Transform Values &c";
-		private const string ITEM_NAME_PASTE = "Edit/UniShortcutKeyPlus/Paste Transform Values &v";
+		private const string ITEM_NAME_COPY  = "Tools/UniShortcutKeyPlus/Copy Transform Values &c";
+		private const string ITEM_NAME_PASTE = "Tools/UniShortcutKeyPlus/Paste Transform Values &v";
 
 		private static Data m_data;
 

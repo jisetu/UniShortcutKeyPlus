@@ -4,7 +4,7 @@ namespace UniShortcutKeyPlus
 {
 	internal static class InvertActiveGameObject
 	{
-		private const string ITEM_NAME = "Edit/UniShortcutKeyPlus/Invert Active &a";
+		private const string ITEM_NAME = "Tools/UniShortcutKeyPlus/Invert Active &a";
 
 		[MenuItem( ITEM_NAME )]
 		private static void Invert()

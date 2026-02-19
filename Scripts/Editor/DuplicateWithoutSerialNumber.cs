@@ -6,7 +6,7 @@ namespace UniShortcutKeyPlus
 {
 	internal static class DuplicateWithoutSerialNumber
 	{
-		private const string ITEM_NAME = "Edit/UniShortcutKeyPlus/Duplicate Without Serial Number &d";
+		private const string ITEM_NAME = "Tools/UniShortcutKeyPlus/Duplicate Without Serial Number &d";
 
 		[MenuItem( ITEM_NAME )]
 		private static void Duplicate()

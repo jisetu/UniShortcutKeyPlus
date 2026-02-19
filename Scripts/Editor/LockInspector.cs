@@ -7,7 +7,7 @@ namespace UniShortcutKeyPlus
 {
 	internal static class LockInspector
 	{
-		private const string ITEM_NAME = "Edit/UniShortcutKeyPlus/Lock Inspector &l";
+		private const string ITEM_NAME = "Tools/UniShortcutKeyPlus/Lock Inspector &l";
 
 		[MenuItem( ITEM_NAME )]
 		private static void Lock()

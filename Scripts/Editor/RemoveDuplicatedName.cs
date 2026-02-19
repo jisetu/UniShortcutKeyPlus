@@ -6,7 +6,7 @@ namespace UniShortcutKeyPlus
 {
 	internal static class RemoveDuplicatedName
 	{
-		private const string ITEM_NAME = "Edit/UniShortcutKeyPlus/Remove Duplicated Name &r";
+		private const string ITEM_NAME = "Tools/UniShortcutKeyPlus/Remove Duplicated Name &r";
 
 		private static Regex m_regex = new Regex( @"(.*)(\([0-9]*\))" );
 
